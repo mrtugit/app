@@ -1,3 +1,6 @@
 git is good
 
 dev
+
+
+Creating a new branch is quick AND simple.
